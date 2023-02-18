@@ -436,7 +436,6 @@ margin-left: 330px;
     display: flex;
     flex-direction: column;
     transition: transform 3s linear;
-    margin-left: 536px;
 }
 .close-modal {
     color: #000000;
